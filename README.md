@@ -24,4 +24,8 @@ data integration and information systems.
 ## Links
 
 - [TH Köln](https://www.th-koeln.de/)
-- [My Data Integration Labs](https://github.com/karina-jacob/data-integration-labs)
+- [My Data Integration Labs](https://github.com/Karina-25-12/karina-jacob/data-integration-labs)
+
+## My Repositories
+
+- [Data Integration Labs](https://github.com/Karina-25-12/karina-jacob/data-integration-labs)
